@@ -1,0 +1,15 @@
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Domain\bin\Debug\net9.0\AhlApp.Domain.deps.json
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Domain\bin\Debug\net9.0\AhlApp.Domain.dll
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Domain\bin\Debug\net9.0\AhlApp.Domain.pdb
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Domain\bin\Debug\net9.0\AhlApp.Shared.dll
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Domain\bin\Debug\net9.0\AhlApp.Shared.pdb
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Domain\obj\Debug\net9.0\AhlApp.Domain.csproj.AssemblyReference.cache
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Domain\obj\Debug\net9.0\AhlApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Domain\obj\Debug\net9.0\AhlApp.Domain.AssemblyInfoInputs.cache
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Domain\obj\Debug\net9.0\AhlApp.Domain.AssemblyInfo.cs
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Domain\obj\Debug\net9.0\AhlApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Domain\obj\Debug\net9.0\AhlApp.D.CCC4CF57.Up2Date
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Domain\obj\Debug\net9.0\AhlApp.Domain.dll
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Domain\obj\Debug\net9.0\refint\AhlApp.Domain.dll
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Domain\obj\Debug\net9.0\AhlApp.Domain.pdb
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Domain\obj\Debug\net9.0\ref\AhlApp.Domain.dll

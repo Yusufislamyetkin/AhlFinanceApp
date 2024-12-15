@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "da9CIZV8nsQa5Ngvrcc2yiVurDCeyJO7eVISxj9a8q8=",
+  "Source": "AhlApp.API",
+  "BasePath": "_content/AhlApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

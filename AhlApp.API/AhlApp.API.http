@@ -1,0 +1,6 @@
+@AhlApp.API_HostAddress = http://localhost:5252
+
+GET {{AhlApp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

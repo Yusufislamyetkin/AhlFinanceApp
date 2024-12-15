@@ -1,0 +1,11 @@
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Shared\bin\Debug\net9.0\AhlApp.Shared.deps.json
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Shared\bin\Debug\net9.0\AhlApp.Shared.dll
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Shared\bin\Debug\net9.0\AhlApp.Shared.pdb
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Shared\obj\Debug\net9.0\AhlApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Shared\obj\Debug\net9.0\AhlApp.Shared.AssemblyInfoInputs.cache
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Shared\obj\Debug\net9.0\AhlApp.Shared.AssemblyInfo.cs
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Shared\obj\Debug\net9.0\AhlApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Shared\obj\Debug\net9.0\AhlApp.Shared.dll
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Shared\obj\Debug\net9.0\refint\AhlApp.Shared.dll
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Shared\obj\Debug\net9.0\AhlApp.Shared.pdb
+C:\Users\yusuf\Desktop\Ahl\AhlApp.Shared\obj\Debug\net9.0\ref\AhlApp.Shared.dll

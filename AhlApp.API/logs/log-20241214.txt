@@ -1,0 +1,18 @@
+2024-12-14 12:12:52.315 +03:00 [INF] User profile is available. Using 'C:\Users\yusuf\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-14 12:12:52.549 +03:00 [INF] Now listening on: https://localhost:7223
+2024-12-14 12:12:52.551 +03:00 [INF] Now listening on: http://localhost:5252
+2024-12-14 12:12:52.663 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-14 12:12:52.666 +03:00 [INF] Hosting environment: Development
+2024-12-14 12:12:52.667 +03:00 [INF] Content root path: C:\Users\yusuf\Desktop\Ahl\AhlApp.API
+2024-12-14 12:15:05.194 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7223/api/transactionreports/monthly-summary - null null
+2024-12-14 12:15:05.420 +03:00 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '14.12.2024 09:03:29', Current time (UTC): '14.12.2024 09:15:05'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2024-12-14 12:15:05.449 +03:00 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '14.12.2024 09:03:29', Current time (UTC): '14.12.2024 09:15:05'.
+2024-12-14 12:15:05.454 +03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-12-14 12:15:05.459 +03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-12-14 12:15:05.462 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7223/api/transactionreports/monthly-summary - 401 0 null 270.4626ms
